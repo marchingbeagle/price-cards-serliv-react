@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  padding: 16px;
+}
+
+.header p {
+  color: white;
+  text-transform: uppercase;
+  font-size: 40px;
+  margin: 0;
+}

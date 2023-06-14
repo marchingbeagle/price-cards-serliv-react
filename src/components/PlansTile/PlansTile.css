@@ -1,0 +1,43 @@
+.tile {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(34, 34, 34);
+  box-shadow: 0 5px 15px -5px black;
+  padding: 30px;
+  border-radius: 6px;
+  flex: 1;
+}
+
+.tile-name {
+  border-bottom: #d4f518 2px solid;
+  margin: 0;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.tile-price {
+  margin: 0;
+  font-weight: bold;
+  font-size: 25px;
+  padding-top: 15px;
+}
+
+.tile-price span {
+  font-size: 1rem;
+}
+
+.tile-list {
+  margin: 0;
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.tile-list__li {
+  color: #adadad;
+  line-height: 1.8;
+}
+
+.tile-list__li::marker {
+  color: #d4f518;
+}

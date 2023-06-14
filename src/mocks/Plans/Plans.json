@@ -1,0 +1,28 @@
+[
+  {
+    "plano": "essencial",
+    "preco": "R$3.75",
+    "beneficios": ["1 Website", "1GB de Armazenamento", "10GB de tansferencia"]
+  },
+  {
+    "plano": "standard",
+    "preco": "R$9.75",
+    "beneficios": [
+      "5 Websites",
+      "30GB de Armazenamento",
+      "Tansferencia ilimitada",
+      "10 horas de suporte mensais"
+    ]
+  },
+  {
+    "plano": "gold",
+    "preco": "R$19.75",
+    "beneficios": [
+      "10 Websites",
+      "30GB de Armazenamento",
+      "Tansferencia ilimitada",
+      "30 horas de suporte mensais",
+      "Email personalizado"
+    ]
+  }
+]

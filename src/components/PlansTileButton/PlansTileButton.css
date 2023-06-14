@@ -1,0 +1,17 @@
+.plan-tile-button {
+  padding: 10px;
+  background-color: #d4f518;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.plan-tile-button:hover {
+  color: rgb(255, 255, 255);
+  outline: 2px #d4f518 solid;
+  background: transparent;
+  transition: 0.4s;
+}
